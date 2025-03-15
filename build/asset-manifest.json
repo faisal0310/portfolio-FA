@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.932d1569.css",
+    "main.js": "/portfolio/static/js/main.4301c1c8.js",
+    "static/media/devicon.svg?biu5f3": "/portfolio/static/media/devicon.f715b4139afc5236a6e6.svg",
+    "static/media/wisata.png": "/portfolio/static/media/wisata.c5cec277a82a02a335cf.png",
+    "static/media/image.png": "/portfolio/static/media/image.ff1128f047723c9474bb.png",
+    "static/media/devicon.eot?biu5f3": "/portfolio/static/media/devicon.afa70020fddd5e5a3260.eot",
+    "static/media/devicon.woff?biu5f3": "/portfolio/static/media/devicon.96fdfd136e8a467e1861.woff",
+    "static/media/devicon.ttf?biu5f3": "/portfolio/static/media/devicon.b25739c2b9d15a53d60c.ttf",
+    "static/media/102.png": "/portfolio/static/media/102.6681f709036e9ac1586d.png",
+    "static/media/Hi.gif": "/portfolio/static/media/Hi.d93720933c608f6178fb.gif",
+    "static/media/1.webp": "/portfolio/static/media/1.47b3df80eec97ad4fbb8.webp",
+    "static/media/Certificate1.webp": "/portfolio/static/media/Certificate1.0fb46c97bc7ce957ada7.webp",
+    "index.html": "/portfolio/index.html",
+    "main.932d1569.css.map": "/portfolio/static/css/main.932d1569.css.map",
+    "main.4301c1c8.js.map": "/portfolio/static/js/main.4301c1c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.932d1569.css",
+    "static/js/main.4301c1c8.js"
+  ]
+}
