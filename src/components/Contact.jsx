@@ -100,7 +100,7 @@ function Contact() {
                   </h3>
                   <p>faissal_amrri</p>
                   <a
-                    href="https://www.instagram.com/mthoriq_as/"
+                    href="https://www.instagram.com/faissal_amrri/"
                     target="_blank"
                     rel="noreferrer"
                     className="btn-direct"
